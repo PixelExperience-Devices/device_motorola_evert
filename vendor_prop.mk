@@ -25,6 +25,11 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.hardware.nfc_nci=pn54x
 
+# NavBar
+PRODUCT_PROPERTY_OVERRIDES += \
+    qemu.hw.mainkeys=0
+
+
 # Sensors
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.hardware.sensors=evert \
