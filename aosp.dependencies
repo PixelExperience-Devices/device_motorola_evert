@@ -4,7 +4,7 @@
 "remote":     "github",
 "repository": "PixelExperience-Devices/kernel_motorola_sdm660",
 "target_path": "kernel/motorola/msm8998",
-"branch":      "ten"
+"branch":      "ten-evert"
 },
 {
 "remote":      "pixel-devices-blobs",
