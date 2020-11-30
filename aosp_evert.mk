@@ -79,7 +79,4 @@ PRODUCT_MODEL := moto g(6) plus
 PRODUCT_MANUFACTURER := motorola
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRODUCT_NAME=evert \
-    PRIVATE_BUILD_DESC="evert-user 9 PPW29.116-16-30 40d1e release-keys"
-
-BUILD_FINGERPRINT := motorola/evert/evert:9/PPW29.116-16-30/40d1e:user/release-keys
+    PRODUCT_NAME=evert
