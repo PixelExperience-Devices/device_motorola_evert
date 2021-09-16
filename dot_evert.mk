@@ -85,7 +85,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=evert \
     PRIVATE_BUILD_DESC="redfin-user 11 RQ2A.210405.005 7181113 release-keys"
 
-BUILD_FINGERPRINT := "google/redfin/redfin:11/RQ2A.210405.005/7181113:user/release-keys
+BUILD_FINGERPRINT := "google/redfin/redfin:11/RD2A.210905.003/7181113:user/release-keys
 
 BUILD_BROKEN_DUP_RULES := true
 BUILD_BROKEN_USES_BUILD_COPY_HEADERS := true
