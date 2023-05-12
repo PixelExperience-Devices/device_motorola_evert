@@ -107,3 +107,6 @@ PRODUCT_COPY_FILES += \
 
 # Inherit from motorola sdm660-common
 $(call inherit-product, device/motorola/sdm660-common/common.mk)
+
+# VNDK
+PRODUCT_SHIPPING_API_LEVEL := 26
