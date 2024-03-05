@@ -261,6 +261,12 @@ vendor/lib/libchromatix_s5k2l7sa_preview.so
 vendor/lib/libchromatix_s5k2l7sa_snapshot.so
 vendor/lib/libchromatix_s5k2l7sa_video_4k.so
 
+# Camera - MotCam2
+-system/app/MotoSignatureApp/MotoSignatureApp.apk;PRESIGNED
+system/etc/permissions/com.motorola.motosignature.xml
+system/etc/permissions/privapp-permissions-com.motorola.camera2.xml
+system/framework/com.motorola.motosignature.jar
+
 # Camera - mmcamera
 vendor/lib/libmmcamera2_c2d_module.so
 vendor/lib/libmmcamera2_cpp_module.so
