@@ -18,9 +18,6 @@ vendor.video.disable.ubwc=1
 # Bluetooth
 bluetooth.device.default_name=Moto G6 Plus
 
-# Fastbootd
-ro.fastbootd.available=true
-
 # Fluence
 persist.vendor.audio.dualmic.config=endfire
 persist.vendor.audio.fluence.audiorec=false
